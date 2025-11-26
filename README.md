@@ -1,6 +1,6 @@
 # 1- STUDY-OF-MICROWAVE-COMPONENTS-AND-INSTRUMENTS
-
-
+# NAME: DHIVJA R
+# REG NO: 212222060050
 
 ## Aim:
 To become familiar with microwave components and instruments available in the laboratory.
